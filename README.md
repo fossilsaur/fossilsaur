@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fossilsaur
+- 👋 Hi, I’m @JeffKish
 - 👀 I’m interested in developing my coding skills and becoming a Software Engineer.
-- 🌱 I’m currently learning Python, HTML, CSS, and Javascript.
+- 🌱 HTML, CSS, Python, Javascript, React, SQL
 - 💞️ I’m looking to collaborate on anything and everything.
 - 📫 How to reach me email jmkish2990@gmail.com
 
